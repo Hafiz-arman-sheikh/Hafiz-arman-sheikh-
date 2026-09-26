@@ -1,88 +1,31 @@
-# Hi, I'm Hafiz Arman Sheikh 👋
+# Hafiz Arman Sheikh
 
-### Front-End Web Developer | HTML • CSS • JavaScript
+**Front-end developer in Karachi, Pakistan** building responsive websites and interactive JavaScript interfaces. I bring several years of e-commerce operations experience to projects where clear user flows and practical details matter.
 
-I'm a Front-End Web Developer based in Karachi, Pakistan, focused on building responsive and interactive web experiences.
+I work with **HTML, CSS, JavaScript, DOM APIs, Fetch API, and Git**. I use AI tools to explore approaches and debug, then review and adapt the resulting code. I am currently improving my JavaScript skills through hands-on projects.
 
-I enjoy turning ideas into functional websites and continuously improving my JavaScript and front-end development skills through practical projects.
+## Selected projects
 
----
+| Project | What it shows | Code | Live |
+| --- | --- | --- | --- |
+| LifeTrack | Personal web app for tracking daily activities; currently hosted on Firebase | [Repository](https://github.com/Hafiz-arman-sheikh/LifeTrack) | [App](https://lifetrack-864d7.web.app/) |
+| Huffaz Caterers | Responsive catering site with menu exploration and booking inquiry interface | [Repository](https://github.com/Hafiz-arman-sheikh/HUFFAZ-CATERERS) | — |
+| Coffee Wala | Multi-page coffee site with responsive layout and interactive order modal | [Repository](https://github.com/Hafiz-arman-sheikh/coffee-shop-website) | [Website](https://coffeewalaai.netlify.app/) |
+| LMS | Front-end learning management interface with student and teacher pages | [Repository](https://github.com/Hafiz-arman-sheikh/LMS) | [Website](https://lms-three-nu.vercel.app/) |
 
-## 🚀 About Me
+> The LMS login and signup pages are interface practice; its README lists backend authentication as future work.
 
-* 💻 Building responsive websites with **HTML, CSS & JavaScript**
-* ⚡ Working with **JavaScript DOM & interactive UI**
-* 📱 Focused on **responsive and mobile-friendly development**
-* 🌱 Currently strengthening my **JavaScript skills**
-* 🔨 Learning by building real-world projects
-* 🎯 Goal: Work as a professional Front-End Developer
+## What I am working on
 
----
+- Responsive layouts and accessible, clear interfaces
+- JavaScript logic, forms, APIs, and state management
+- Writing project READMEs that explain what works and how to run the code
 
-## 🛠️ Tech Stack
+## Background
 
+Before web development, I worked in e-commerce fulfillment and warehouse operations, including dispatch, returns, inventory checks, and coordination. That experience helps me understand operational workflows and build interfaces around real tasks.
 
+## Contact
 
-
-
-
-\
-
----
-
-## 📌 Featured Projects
-
-### ☕ Coffee Wala — Coffee Shop Website
-
-A responsive coffee shop website built with HTML, CSS and JavaScript featuring an interactive user interface, responsive navigation, animations and an order modal.
-
-**Technologies:** HTML • CSS • JavaScript
-
-🔗 [View Repository](https://github.com/Hafiz-arman-sheikh/coffee-shop-website)
-
-> More projects are currently being developed and will be added here.
-
----
-
-## 💡 JavaScript Skills
-
-* Variables & Data Types
-* Functions
-* Arrays
-* Loops
-* Conditional Statements
-* DOM Manipulation
-* Event Handling
-* Form Handling
-
----
-
-## 📊 GitHub Stats
-
----
-
-## 🏆 GitHub Trophies
-
----
-
-## 📈 Contribution Activity
-
----
-
-## 🤖 Development Tools
-
-I use modern development and AI-assisted tools to improve my workflow, research solutions, debug problems and learn new concepts.
-
-\
-
----
-
-## 📫 Connect With Me
-
-* GitHub: [Hafiz-arman-sheikh](https://github.com/Hafiz-arman-sheikh)
-* LinkedIn: https://www.linkedin.com/in/hafiz-arman-sheikh-05b723186/
-* Portfolio: **Coming Soon**
-
----
-
-### 💻 Build • Learn • Improve
+- [LinkedIn](https://www.linkedin.com/in/hafiz-arman-sheikh-05b723186/)
+- [GitHub projects](https://github.com/Hafiz-arman-sheikh)
